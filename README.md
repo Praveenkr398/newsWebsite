@@ -1,12 +1,53 @@
-# React + Vite
+# **News Website using API** 📰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **News Website** is a modern and responsive **React.js-based** web application that dynamically fetches and displays the latest news articles from various categories using a news API. This project provides users with an intuitive browsing experience, allowing them to explore news articles by category and read full stories from original sources.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 **Key Features**
 
-## Expanding the ESLint configuration
+✅ **Live News Updates** – Fetches real-time news articles from a reliable API.  
+✅ **Easy Navigation** – Simple navigation for seamless browsing.  
+✅ **Category-Based Filtering** – Users can explore news based on categories like:
+   - **Entertainment** 🎭
+   - **Business** 💼
+   - **Health** 🏥
+   - **Science** 🔬
+   - **Sports** ⚽
+   - **Technology** 💻
+✅ **Read More Button** – Redirects users to the original news source.  
+✅ **News Details Display** – Shows news title, image, author name, and description.  
+✅ **Multiple News Articles** – Clicking the category button loads multiple relevant news articles.  
+✅ **Responsive UI** – Optimized for all screen sizes and devices.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 **Tech Stack & Tools Used**
+
+- **Frontend:** React.js  
+- **Styling:** CSS  
+- **API:** News API  
+
+---
+
+## 📸 **Project Preview**
+
+![News Website Preview](https://raw.githubusercontent.com/Praveenkr398/newsWebsite/main/preview.png)
+
+---
+
+## 🚀 **Live Demo & GitHub Repository**
+
+🔗 **Live Demo:** [News Website](https://inewswebsite.netlify.app/)  
+📂 **GitHub Repo:** [News Website Code](https://github.com/Praveenkr398/newsWebsite)  
+
+---
+
+## 📞 **Contact & Connect**
+
+💡 **Developed by:** Praveen Kumar Pandit  
+📧 **Email:** prajatech355@gmail.com  
+💻 **GitHub:** [Praveenkr398](https://github.com/Praveenkr398)  
+🔗 **LinkedIn:** [linkedin.com/in/Praveenkr398](https://www.linkedin.com/in/Praveenkr398)  
+
+🚀 **Looking for a Front-End Developer with React expertise? Let’s connect!**
