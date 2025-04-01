@@ -25,7 +25,7 @@ The **News Website** is a modern and responsive **React.js-based** web applicati
 ## 🛠 **Tech Stack & Tools Used**
 
 - **Frontend:** React.js  
-- **Styling:** CSS  
+- **Styling:** Bootstrap 
 - **API:** News API  
 
 ---
@@ -33,6 +33,7 @@ The **News Website** is a modern and responsive **React.js-based** web applicati
 ## 📸 **Project Preview**
 ![Screenshot 2025-04-01 190925](https://github.com/user-attachments/assets/b6014890-c65e-438a-b673-2d8e0b2a1798)
 
+Category:- "Website, React, Bootstrap, Api, "
 ---
 
 ## 🚀 **Live Demo & GitHub Repository**
