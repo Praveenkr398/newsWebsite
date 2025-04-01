@@ -31,8 +31,7 @@ The **News Website** is a modern and responsive **React.js-based** web applicati
 ---
 
 ## 📸 **Project Preview**
-
-![News Website Preview](https://raw.githubusercontent.com/Praveenkr398/newsWebsite/main/preview.png)
+/![Screenshot 2025-04-01 190925](https://github.com/user-attachments/assets/b6014890-c65e-438a-b673-2d8e0b2a1798)
 
 ---
 
